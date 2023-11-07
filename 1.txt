@@ -1,2 +1,6 @@
 Este es el fichero 1.txt
+<<<<<<< HEAD
 Hola
+=======
+Adios
+>>>>>>> v0.2
